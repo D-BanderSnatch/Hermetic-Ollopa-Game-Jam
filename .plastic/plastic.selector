@@ -1,0 +1,4 @@
+repository "My project/Hermetic game jam@18968320168010@cloud"
+  path "/"
+    br "/main"
+    co "/main"
